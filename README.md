@@ -1,2 +1,2 @@
 # apiTsBank
-Creating an API for a business model: Bank
+Exercise: Creating an API for a banking business model
